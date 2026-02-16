@@ -231,4 +231,4 @@ This project is part of the AI Engineering Hub.
 - Powered by OpenAI's language models
 - Web scraping by Firecrawl
 
-## AUTHOR - JONCY KEDA
+## AUTHOR - JONCY KEDA (AI-ML DEVELOPER)
