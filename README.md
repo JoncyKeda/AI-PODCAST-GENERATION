@@ -9,7 +9,7 @@ Transform web content and text into engaging AI-generated podcasts with natural-
 - Requires OpenAI API key
 - Fast and reliable cloud-based AI
 - Pay-per-use pricing model
-
+!!
 ### 🔓 Open Source Version (`app_oss.py`)
 - Uses **Ollama** with local AI models
 - No API keys required for script generation
